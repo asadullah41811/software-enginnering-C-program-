@@ -1,2 +1,2 @@
-# software-enginnering-C-program-
+# Software-enginnering-C-program-
 C++ Program  (OOP) or ( DSA)
