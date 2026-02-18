@@ -1,3 +1,4 @@
+// write a program whether  a number is divisible by 5 or divisible by 11.//
 #include<iostream>
 using namespace std;
 int main()
@@ -18,3 +19,4 @@ int main()
 	  }
 	  return 0;
 }
+
