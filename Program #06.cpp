@@ -1,4 +1,4 @@
-
+// write a program to evalulate the number is vowel or consonant
 #include <iostream>
 using namespace std;
 
@@ -23,4 +23,5 @@ int main() {
 
     return 0;
 }
+
 
