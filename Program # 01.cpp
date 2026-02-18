@@ -1,4 +1,4 @@
-//write the program to check the number is even or odd
+//write the program to check the number is even or odd//
 #include<iostream>
 using namespace std;
 int main()
@@ -23,3 +23,4 @@ int main()
 	
 	
 };
+
