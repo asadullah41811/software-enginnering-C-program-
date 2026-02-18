@@ -1,3 +1,4 @@
+//write a program to find the leap or not leap year.//
 #include<iostream>
 using namespace std;
  int main()
@@ -17,3 +18,4 @@ using namespace std;
 	   }
  	 return 0;
  }
+
