@@ -1,3 +1,4 @@
+//write a program to find the postive or negative number.
 #include<iostream>
 using namespace std;
  int main ()
@@ -24,3 +25,4 @@ using namespace std;
 	  
 	  
  }
+
