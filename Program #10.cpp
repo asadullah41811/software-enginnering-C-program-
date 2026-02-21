@@ -1,3 +1,4 @@
+// write a program to Calculate electricity bill using slabs 
 #include<iostream>
 using namespace std;
  int main()
@@ -28,3 +29,4 @@ using namespace std;
 	  cout<<"Your fina bill is :"<<bill<<endl;
 	 return 0;
  }
+
