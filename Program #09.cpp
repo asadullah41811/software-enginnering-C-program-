@@ -23,7 +23,7 @@ int main() {
     while (number > 0) {
         digit = number % 10;        // digit = 121 % 10 = 1  
         reversed = reversed * 10 + digit; // 0= 0 * 10 +1=1
-        number /= 10;              // number = number /10; // 121 = 121 /10 = 12   
+        number= number/ 10;              // number = number /10; // 121 = 121 /10 = 12   
     }
     // three times while loop run then revserved value and original value is same;// value is panlidrome.
 
@@ -36,4 +36,5 @@ int main() {
 
     return 0;
 }
+
 
