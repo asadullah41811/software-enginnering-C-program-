@@ -1,3 +1,4 @@
+//  write a program to check whether a number is a palindrome 
 #include <iostream>
 using namespace std;
 
@@ -35,3 +36,4 @@ int main() {
 
     return 0;
 }
+
